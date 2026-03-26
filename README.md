@@ -67,7 +67,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](img/dashboard.png)
 
 ---
 
